@@ -20,7 +20,7 @@
     "js-floating-point": "^1.0.0",
     "katex": "^0.16.2",
     "moment": "^2.29.4",
-    "next": "^13.0.0",
+    "next": "^13.5.4",
     "react": "^18.2.0",
     "react-alice-carousel": "^2.6.4",
     "react-dom": "^18.2.0",
