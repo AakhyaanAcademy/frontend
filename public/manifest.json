@@ -1,0 +1,27 @@
+{
+    "name": "Aakhyaan Academy",
+    "short_name": "Aakhyaan",
+    "start_url": "/",
+    "display": "Minimal-UI",
+    "background_color": "#fefeff",
+    "theme_color": "#467fdb",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "/logo.png",
+        "type": "image/png"
+      },
+      {
+        "src": "/logo2.png",
+        "type": "image/png"
+      },
+      {
+        "src": "/aakhyaanTextWhite.png",
+        "type": "image/png"
+      },
+      {
+        "src": "/aakhyaanText.png",
+        "type": "image/png"
+      }
+    ]
+  }
