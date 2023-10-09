@@ -30,6 +30,8 @@ function Login() {
     const router = useRouter();
 
     const handleSubmit = async (e) => {
+        console.log(process.env)
+        console.log(process.env.BACKEND)
         setLoading(true)
         e.preventDefault();
         const data = await loginUser(
